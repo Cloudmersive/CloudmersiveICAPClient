@@ -1,0 +1,7 @@
+C:\CloudmersiveICAPClient\CloudmersiveIcapClient\CloudmersiveIcapClient\obj\Debug\CloudmersiveIcapClient.csproj.AssemblyReference.cache
+C:\CloudmersiveICAPClient\CloudmersiveIcapClient\CloudmersiveIcapClient\obj\Debug\CloudmersiveIcapClient.csproj.CoreCompileInputs.cache
+C:\CloudmersiveICAPClient\CloudmersiveIcapClient\CloudmersiveIcapClient\bin\Debug\CloudmersiveIcapClient.exe.config
+C:\CloudmersiveICAPClient\CloudmersiveIcapClient\CloudmersiveIcapClient\bin\Debug\CloudmersiveIcapClient.exe
+C:\CloudmersiveICAPClient\CloudmersiveIcapClient\CloudmersiveIcapClient\bin\Debug\CloudmersiveIcapClient.pdb
+C:\CloudmersiveICAPClient\CloudmersiveIcapClient\CloudmersiveIcapClient\obj\Debug\CloudmersiveIcapClient.exe
+C:\CloudmersiveICAPClient\CloudmersiveIcapClient\CloudmersiveIcapClient\obj\Debug\CloudmersiveIcapClient.pdb
